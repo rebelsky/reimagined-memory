@@ -1,5 +1,5 @@
 # reimagined-memory
-My attempt to document what *nix software I like installed on my Mac and where it comes from.
+My attempt to document what \*nix software I like installed on my Mac and where it comes from.
 
 ## Xcode command-line tools
 Make, git, and all of the other common command-line tools I expect as a *nix user.
@@ -7,6 +7,12 @@ Make, git, and all of the other common command-line tools I expect as a *nix use
     $ xcode-select --install
 
 More info at <http://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/>.  
+
+## XQuartz
+What good is a \*nix box without a Web server?  I'm still not sure why Apple removed
+it.  I'm also surprised that XQuartz has not upgraded in a few years.  But perhaps
+that's not necessary.  One can install XQuartz (or at least an X Server) through
+MacPorts, but I'd prefer to use the installer.  <https://www.xquartz.org/>.
 
 ## MacPorts
 Download the correct installer from <https://www.macports.org/install.php>.
