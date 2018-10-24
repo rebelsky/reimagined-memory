@@ -1,5 +1,6 @@
 # reimagined-memory
 My attempt to document what \*nix software I like installed on my Mac and where it comes from.
+You can read some backstory on this document in [one of my musings](https://www.cs.grinnell.edu/~rebelsky/musings/linux-on-macos).
 
 ## Xcode command-line tools
 Make, git, and all of the other common command-line tools I expect as a *nix user.
