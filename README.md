@@ -42,8 +42,13 @@ my `.bash_profile`.
     export DYLD_LIBRARY_PATH="$MAGICK_HOME/lib/"
     export DISPLAY=:0
 
-## MacPorts ports to install
+## Pandoc
+Follow the instructions at <https://pandoc.org/installing.html>
 
+## Jekyll
+_Instructions forthcoming._
+
+## MacPorts ports to install
 A quick list of things I normally install with MacPorts.
 
 * `GraphicsMagick` - an alternative to ImageMagick
