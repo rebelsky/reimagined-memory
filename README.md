@@ -46,7 +46,14 @@ my `.bash_profile`.
 Follow the instructions at <https://pandoc.org/installing.html>
 
 ## Jekyll
+The site-building tool I us for my course Webs.
+
 _Instructions forthcoming._
+
+## FontForge
+For the occasions on which I want to modify o design a font.
+
+Another installer.  See.  http://fontforge.github.io/en-US/
 
 ## MacPorts ports to install
 A quick list of things I normally install with MacPorts.
